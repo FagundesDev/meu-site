@@ -1,116 +1,116 @@
-# Code of Conduct - Space Portfolio
+# Código de Conduta – Portfólio Espacial
 
-## Our Pledge
+## Nosso compromisso
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to make participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+No interesse de promover um ambiente aberto e acolhedor, nós, como
+contribuidores e mantenedores se comprometem a participar de nosso projeto e
+nossa comunidade uma experiência livre de assédio para todos, independentemente da idade, corpo
+tamanho, deficiência, etnia, características sexuais, identidade e expressão de gênero,
+nível de experiência, educação, status socioeconômico, nacionalidade, pessoal
+aparência, raça, religião ou identidade e orientação sexual.
 
-## Our Standards
+## Nossos padrões
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+Exemplos de comportamento que contribuem para um ambiente positivo para nossos
+comunidade incluem:
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-overall community
+* Demonstrar empatia e bondade para com outras pessoas
+* Respeitar opiniões, pontos de vista e experiências divergentes
+* Dar e aceitar gentilmente feedback construtivo
+* Aceitar a responsabilidade e pedir desculpas às pessoas afetadas por nossos erros,
+e aprendendo com a experiência
+* Concentrar-se no que é melhor não apenas para nós como indivíduos, mas para o
+comunidade geral
 
-Examples of unacceptable behavior include:
+Exemplos de comportamento inaceitável incluem:
 
-* The use of sexualized language or imagery, and sexual attention or
-advances
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-professional setting
+* O uso de linguagem ou imagens sexualizadas e atenção sexual ou
+avanços
+* Trolling, comentários insultuosos ou depreciativos e ataques pessoais ou políticos
+* Assédio público ou privado
+* Publicar informações privadas de terceiros, como informações físicas ou e-mail
+endereço, sem sua permissão explícita
+*Outra conduta que poderia razoavelmente ser considerada inadequada em um
+ambiente profissional
 
-## Our Responsibilities
+## Nossas responsabilidades
 
-Project maintainers are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate,
-threatening, offensive, or harmful.
+Os mantenedores do projeto são responsáveis ​​por esclarecer e fazer cumprir nossos padrões de
+comportamento aceitável e tomará medidas corretivas apropriadas e justas em
+resposta a qualquer comportamento que considerem inadequado,
+ameaçador, ofensivo ou prejudicial.
 
-Project maintainers have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will
-communicate reasons for moderation decisions when appropriate.
+Os mantenedores do projeto têm o direito e a responsabilidade de remover, editar ou rejeitar
+comentários, commits, código, edições de wiki, problemas e outras contribuições que são
+não alinhado a este Código de Conduta e
+comunicar os motivos das decisões de moderação, quando apropriado.
 
-## Scope
+## Escopo
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+Este Código de Conduta se aplica a todos os espaços comunitários e também quando
+um indivíduo representa oficialmente a comunidade em espaços públicos.
+Exemplos de representação da nossa comunidade incluem o uso de um endereço de e-mail oficial,
+postar através de uma conta oficial de mídia social ou agir como um nomeado
+representante em um evento online ou offline.
 
-## Enforcement
+## Aplicação
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at .
-All complaints will be reviewed and investigated promptly and fairly.
+Instâncias de comportamento abusivo, de assédio ou de outra forma inaceitável podem ser
+relatados aos líderes comunitários responsáveis ​​pela fiscalização em .
+Todas as reclamações serão analisadas e investigadas de forma rápida e justa.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+Todos os líderes comunitários são obrigados a respeitar a privacidade e a segurança do
+repórter de qualquer incidente.
 
-## Enforcement Guidelines
+## Diretrizes de aplicação
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+Os líderes comunitários seguirão estas Diretrizes de Impacto Comunitário para determinar
+as consequências de qualquer ação que considerem violar este Código de Conduta:
 
-### 1. Correction
+### 1. Correção
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+**Impacto na comunidade**: uso de linguagem inadequada ou outro comportamento considerado
+pouco profissional ou indesejável na comunidade.
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+**Consequência**: Uma advertência privada por escrito dos líderes comunitários, fornecendo
+clareza sobre a natureza da violação e uma explicação do motivo pelo qual a
+comportamento era inadequado. Um pedido público de desculpas pode ser solicitado.
 
-### 2. Warning
+### 2. Aviso
 
-**Community Impact**: A violation through a single incident or series
-of actions.
+**Impacto na comunidade**: uma violação por meio de um único incidente ou série
+de ações.
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
+**Consequência**: um aviso com consequências para o comportamento continuado. Não
+interação com as pessoas envolvidas, incluindo interação não solicitada com
+aqueles que aplicam o Código de Conduta, por um período de tempo específico. Esse
+inclui evitar interações em espaços comunitários, bem como em canais externos
+como mídias sociais. A violação destes termos pode levar a uma interrupção temporária ou
+proibição permanente.
 
-### 3. Temporary Ban
+### 3. Banimento temporário
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+**Impacto na comunidade**: Uma violação grave dos padrões da comunidade, incluindo
+comportamento inadequado sustentado.
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+**Consequência**: Banimento temporário de qualquer tipo de interação ou interação pública
+comunicação com a comunidade por um determinado período de tempo. Nenhum público ou
+interação privada com as pessoas envolvidas, incluindo interação não solicitada
+com aqueles que aplicam o Código de Conduta, é permitido durante este período.
+A violação destes termos pode levar a um banimento permanente.
 
-### 4. Permanent Ban
+### 4. Banimento Permanente
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior, harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+**Impacto na comunidade**: demonstração de um padrão de violação da comunidade
+padrões, incluindo comportamento inapropriado sustentado, assédio de um
+indivíduo, ou agressão ou menosprezo de classes de indivíduos.
 
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+**Consequência**: banimento permanente de qualquer tipo de interação pública dentro
+a comunidade.
 
-## Attribution
+## Atribuição
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://contributor-covenant.org/), version
-[1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct/code_of_conduct.md) and
+Este Código de Conduta é adaptado do [Contrato do Colaborador](https://contributor-covenant.org/), versão
+[1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct/code_of_conduct.md) e
 [2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md),
-and was generated by [contributing-gen](https://github.com/bttger/contributing-gen).
+e foi gerado por [contributing-gen](https://github.com/bttger/contributing-gen).
