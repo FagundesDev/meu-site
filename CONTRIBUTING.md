@@ -1,117 +1,117 @@
-<!-- omit in toc -->
-# Contributing to Space Portfolio
+<!-- omitir no toc -->
+# Contribuindo para o portfólio espacial
 
-First off, thanks for taking the time to contribute! ❤️
+Em primeiro lugar, obrigado por dedicar seu tempo para contribuir! ❤️
 
-All types of contributions are encouraged and valued. See the [Table of Contents](#table-of-contents) for different ways to help and details about how this project handles them. Please make sure to read the relevant section before making your contribution. It will make it a lot easier for us maintainers and smooth out the experience for all involved. The community looks forward to your contributions. 🎉
+Todos os tipos de contribuições são incentivados e valorizados. Consulte o [Índice](#índice) para diferentes maneiras de ajudar e detalhes sobre como este projeto lida com elas. Por favor, certifique-se de ler a seção relevante antes de fazer sua contribuição. Isso tornará tudo muito mais fácil para nós, mantenedores, e facilitará a experiência para todos os envolvidos. A comunidade aguarda suas contribuições. 🎉
 
-> And if you like the project, but just don't have time to contribute, that's fine. There are other easy ways to support the project and show your appreciation, which we would also be very happy about:
-> - Star the project
-> - Tweet about it
-> - Refer this project in your project's readme
-> - Mention the project at local meetups and tell your friends/colleagues
+> E se você gosta do projeto, mas não tem tempo para contribuir, tudo bem. Existem outras maneiras fáceis de apoiar o projeto e mostrar o seu agradecimento, com as quais também ficaríamos muito felizes:
+> - Estrelar o projeto
+> - Tweet sobre isso
+> - Consulte este projeto no leia-me do seu projeto
+> - Mencione o projeto em encontros locais e conte para seus amigos/colegas
 
-<!-- omit in toc -->
-## Table of Contents
+<!-- omitir no toc -->
+## Índice
 
-- [Code of Conduct](#code-of-conduct)
-- [I Have a Question](#i-have-a-question)
-- [I Want To Contribute](#i-want-to-contribute)
-- [Reporting Bugs](#reporting-bugs)
-- [Suggesting Enhancements](#suggesting-enhancements)
-- [Your First Code Contribution](#your-first-code-contribution)
-- [Improving The Documentation](#improving-the-documentation)
-- [Styleguides](#styleguides)
-- [Commit Messages](#commit-messages)
-- [Join The Project Team](#join-the-project-team)
-
-
-## Code of Conduct
-
-This project and everyone participating in it is governed by the
-[Space Portfolio Code of Conduct](https://github.com/sanidhyy/space-portfolioblob/master/CODE_OF_CONDUCT.md).
-By participating, you are expected to uphold this code. Please report unacceptable behavior
-to .
+- [Código de Conduta](#código-de-conduta)
+- [Tenho uma pergunta](#tenho-uma-pergunta)
+- [Quero contribuir](#quero-contribuir)
+- [Relatando Bugs](#reporting-bugs)
+- [Sugerindo melhorias](#sugerindo-melhorias)
+- [Sua primeira contribuição de código](#sua-primeira-contribuição-de-código)
+- [Melhorando a documentação](#improving-the-documentation)
+- [Guias de estilo](#guias-de-estilo)
+- [Mensagens de confirmação](#mensagens-de-confirmação)
+- [Junte-se à equipe do projeto](#join-the-project-team)
 
 
-## I Have a Question
+## Código de Conduta
 
-> If you want to ask a question, we assume that you have read the available [Documentation](https://github.com/sanidhyy/space-portfolio/wiki).
+Este projeto e todos os participantes dele são regidos pelo
+[Código de Conduta do Portfólio Espacial](https://github.com/sanidhyy/space-portfolioblob/master/CODE_OF_CONDUCT.md).
+Ao participar, espera-se que você cumpra este código. Por favor, reporte comportamento inaceitável
+para .
 
-Before you ask a question, it is best to search for existing [Issues](https://github.com/sanidhyy/space-portfolio/issues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
 
-If you then still feel the need to ask a question and need clarification, we recommend the following:
+## Eu tenho uma pergunta
 
-- Open an [Issue](https://github.com/sanidhyy/space-portfolio/issues/new).
-- Provide as much context as you can about what you're running into.
-- Provide project and platform versions (nodejs, npm, etc), depending on what seems relevant.
+> Se você quiser fazer uma pergunta, presumimos que você leu a [Documentação](https://github.com/sanidhyy/space-portfolio/wiki) disponível.
 
-We will then take care of the issue as soon as possible.
+Antes de fazer uma pergunta, é melhor pesquisar [Problemas](https://github.com/sanidhyy/space-portfolio/issues) existentes que possam ajudá-lo. Caso você tenha encontrado um problema adequado e ainda precise de esclarecimentos, você pode escrever sua pergunta nesta edição. Também é aconselhável pesquisar primeiro as respostas na Internet.
 
-## I Want To Contribute
+Se você ainda sentir necessidade de fazer uma pergunta e precisar de esclarecimentos, recomendamos o seguinte:
 
-> ### Legal Notice <!-- omit in toc -->
-> When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content and that the content you contribute may be provided under the project license.
+- Abra um [problema](https://github.com/sanidhyy/space-portfolio/issues/new).
+- Forneça o máximo de contexto possível sobre o que você está enfrentando.
+- Fornecer versões do projeto e da plataforma (nodejs, npm, etc), dependendo do que parecer relevante.
 
-### Reporting Bugs
+Então cuidaremos do problema o mais rápido possível.
 
-<!-- omit in toc -->
-#### Before Submitting a Bug Report
+## Quero contribuir
 
-A good bug report shouldn't leave others needing to chase you up for more information. Therefore, we ask you to investigate carefully, collect information and describe the issue in detail in your report. Please complete the following steps in advance to help us fix any potential bug as fast as possible.
+> ### Aviso Legal <!-- omit in toc -->
+> Ao contribuir para este projeto, você deve concordar que é o autor de 100% do conteúdo, que possui os direitos necessários sobre o conteúdo e que o conteúdo com o qual você contribui pode ser fornecido sob a licença do projeto.
 
-- Make sure that you are using the latest version.
-- Determine if your bug is really a bug and not an error on your side e.g. using incompatible environment components/versions (Make sure that you have read the [documentation](https://github.com/sanidhyy/space-portfolio/wiki). If you are looking for support, you might want to check [this section](#i-have-a-question)).
-- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [bug tracker](https://github.com/sanidhyy/space-portfolioissues?q=label%3Abug).
-- Also make sure to search the internet (including Stack Overflow) to see if users outside of the GitHub community have discussed the issue.
-- Collect information about the bug:
-- Stack trace (Traceback)
-- OS, Platform and Version (Windows, Linux, macOS, x86, ARM)
-- Version of the interpreter, compiler, SDK, runtime environment, package manager, depending on what seems relevant.
-- Possibly your input and the output
-- Can you reliably reproduce the issue? And can you also reproduce it with older versions?
+### Relatando Bugs
 
-<!-- omit in toc -->
-#### How Do I Submit a Good Bug Report?
+<!-- omitir no toc -->
+#### Antes de enviar um relatório de bug
 
-> You must never report security related issues, vulnerabilities or bugs including sensitive information to the issue tracker, or elsewhere in public. Instead sensitive bugs must be sent by email to .
+Um bom relatório de bug não deve fazer com que outras pessoas precisem persegui-lo para obter mais informações. Portanto, pedimos que você investigue cuidadosamente, colete informações e descreva o problema detalhadamente em seu relatório. Conclua as etapas a seguir com antecedência para nos ajudar a corrigir qualquer possível bug o mais rápido possível.
 
-We use GitHub issues to track bugs and errors. If you run into an issue with the project:
+- Certifique-se de estar usando a versão mais recente.
+- Determine se o seu bug é realmente um bug e não um erro da sua parte, por exemplo. usando componentes/versões de ambiente incompatíveis (certifique-se de ter lido a [documentação](https://github.com/sanidhyy/space-portfolio/wiki). Se você estiver procurando suporte, você pode querer verificar [esta seção ](#Eu tenho uma pergunta)).
+- Para ver se outros usuários experimentaram (e possivelmente já resolveram) o mesmo problema que você está tendo, verifique se ainda não existe um relatório de bug para seu bug ou erro no [bug tracker](https://github.com/sanidhyy/space-portfolioissues?q=label%3Abug).
+- Certifique-se também de pesquisar na Internet (incluindo Stack Overflow) para ver se usuários fora da comunidade GitHub discutiram o problema.
+- Colete informações sobre o bug:
+- Rastreamento de pilha (Traceback)
+- SO, plataforma e versão (Windows, Linux, macOS, x86, ARM)
+- Versão do interpretador, compilador, SDK, ambiente de execução, gerenciador de pacotes, dependendo do que parecer relevante.
+- Possivelmente sua entrada e saída
+- Você consegue reproduzir o problema de forma confiável? E você também pode reproduzi-lo com versões mais antigas?
 
-- Open an [Issue](https://github.com/sanidhyy/space-portfolio/issues/new). (Since we can't be sure at this point whether it is a bug or not, we ask you not to talk about a bug yet and not to label the issue.)
-- Explain the behavior you would expect and the actual behavior.
-- Please provide as much context as possible and describe the *reproduction steps* that someone else can follow to recreate the issue on their own. This usually includes your code. For good bug reports you should isolate the problem and create a reduced test case.
-- Provide the information you collected in the previous section.
+<!-- omitir no toc -->
+#### Como faço para enviar um bom relatório de bug?
 
-Once it's filed:
+> Você nunca deve relatar problemas, vulnerabilidades ou bugs relacionados à segurança, incluindo informações confidenciais, ao rastreador de problemas ou em outro lugar público. Em vez disso, bugs sensíveis devem ser enviados por e-mail para .
 
-- The project team will label the issue accordingly.
-- A team member will try to reproduce the issue with your provided steps. If there are no reproduction steps or no obvious way to reproduce the issue, the team will ask you for those steps and mark the issue as `needs-repro`. Bugs with the `needs-repro` tag will not be addressed until they are reproduced.
-- If the team is able to reproduce the issue, it will be marked `needs-fix`, as well as possibly other tags (such as `critical`), and the issue will be left to be [implemented by someone](#your-first-code-contribution).
+Usamos problemas do GitHub para rastrear bugs e erros. Se você tiver um problema com o projeto:
 
-### Suggesting Enhancements
+- Abra um [problema](https://github.com/sanidhyy/space-portfolio/issues/new). (Como não podemos ter certeza neste momento se é um bug ou não, pedimos que você não fale sobre um bug ainda e não rotule o problema.)
+- Explique o comportamento que você esperaria e o comportamento real.
+- Forneça o máximo de contexto possível e descreva as *etapas de reprodução* que outra pessoa pode seguir para recriar o problema por conta própria. Isso geralmente inclui seu código. Para obter bons relatórios de bugs, você deve isolar o problema e criar um caso de teste reduzido.
+- Forneça as informações que você coletou na seção anterior.
 
-This section guides you through submitting an enhancement suggestion for Space Portfolio, **including completely new features and minor improvements to existing functionality**. Following these guidelines will help maintainers and the community to understand your suggestion and find related suggestions.
+Depois de arquivado:
 
-<!-- omit in toc -->
-#### Before Submitting an Enhancement
+- A equipe do projeto rotulará o problema de acordo.
+- Um membro da equipe tentará reproduzir o problema com as etapas fornecidas. Se não houver etapas de reprodução ou nenhuma maneira óbvia de reproduzir o problema, a equipe solicitará essas etapas e marcará o problema como `needs-repro`. Bugs com a tag `needs-repro` não serão resolvidos até que sejam reproduzidos.
+- Se a equipe conseguir reproduzir o problema, ele será marcado como `precisa de correção`, bem como possivelmente outras tags (como `critical`), e o problema será deixado para ser [implementado por alguém](# sua primeira contribuição de código).
 
-- Make sure that you are using the latest version.
-- Read the [documentation](https://github.com/sanidhyy/space-portfolio/wiki) carefully and find out if the functionality is already covered, maybe by an individual configuration.
-- Perform a [search](https://github.com/sanidhyy/space-portfolio/issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
-- Find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Keep in mind that we want features that will be useful to the majority of our users and not just a small subset. If you're just targeting a minority of users, consider writing an add-on/plugin library.
+### Sugestão de melhorias
 
-<!-- omit in toc -->
-#### How Do I Submit a Good Enhancement Suggestion?
+Esta seção orienta você no envio de uma sugestão de melhoria para o Space Portfolio, **incluindo recursos completamente novos e pequenas melhorias nas funcionalidades existentes**. Seguir essas diretrizes ajudará os mantenedores e a comunidade a entender sua sugestão e encontrar sugestões relacionadas.
 
-Enhancement suggestions are tracked as [GitHub issues](https://github.com/sanidhyy/space-portfolio/issues).
+<!-- omitir no toc -->
+#### Antes de enviar uma melhoria
 
-- Use a **clear and descriptive title** for the issue to identify the suggestion.
-- Provide a **step-by-step description of the suggested enhancement** in as many details as possible.
-- **Describe the current behavior** and **explain which behavior you expected to see instead** and why. At this point you can also tell which alternatives do not work for you.
-- You may want to **include screenshots and animated GIFs** which help you demonstrate the steps or point out the part which the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux. <!-- this should only be included if the project has a GUI -->
-- **Explain why this enhancement would be useful** to most Space Portfolio users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
+- Certifique-se de estar usando a versão mais recente.
+- Leia a [documentação](https://github.com/sanidhyy/space-portfolio/wiki) com atenção e descubra se a funcionalidade já está coberta, talvez por uma configuração individual.
+- Faça uma [pesquisa](https://github.com/sanidhyy/space-portfolio/issues) para ver se a melhoria já foi sugerida. Em caso afirmativo, adicione um comentário ao problema existente em vez de abrir um novo.
+- Descubra se a sua ideia se enquadra no escopo e objetivos do projeto. Cabe a você apresentar argumentos fortes para convencer os desenvolvedores do projeto dos méritos desse recurso. Tenha em mente que queremos recursos que sejam úteis para a maioria dos nossos usuários e não apenas para um pequeno subconjunto. Se você tem como alvo apenas uma minoria de usuários, considere escrever uma biblioteca de complementos/plugins.
 
-<!-- omit in toc -->
-## Attribution
-This guide is based on the **contributing-gen**. [Make your own](https://github.com/bttger/contributing-gen)!
+<!-- omitir no toc -->
+#### Como envio uma boa sugestão de melhoria?
+
+As sugestões de melhorias são rastreadas como [problemas do GitHub](https://github.com/sanidhyy/space-portfolio/issues).
+
+- Use um **título claro e descritivo** para o problema para identificar a sugestão.
+- Forneça uma **descrição passo a passo da melhoria sugerida** com o máximo de detalhes possível.
+- **Descreva o comportamento atual** e **explique qual comportamento você esperava ver** e por quê. Neste ponto você também pode dizer quais alternativas não funcionam para você.
+- Você pode **incluir capturas de tela e GIFs animados** que ajudam a demonstrar as etapas ou apontar a parte à qual a sugestão está relacionada. Você pode usar [esta ferramenta](https://www.cockos.com/licecap/) para gravar GIFs no macOS e Windows, e [esta ferramenta](https://github.com/colinkeenan/silentcast) ou [esta ferramenta](https://github.com/GNOME/byzanz) no Linux. <!-- isso só deve ser incluído se o projeto tiver uma GUI -->
+- **Explique por que esse aprimoramento seria útil** para a maioria dos usuários do Space Portfolio. Você também pode apontar outros projetos que resolveram melhor o problema e que poderiam servir de inspiração.
+
+<!-- omitir no toc -->
+## Atribuição
+Este guia é baseado na **geração contribuinte**. [Faça o seu próprio](https://github.com/bttger/contributing-gen)!
