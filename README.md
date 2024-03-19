@@ -95,7 +95,7 @@ space-portfolio/
 ## :raised_hands: Contribuir
 
 Você pode encontrar alguns bugs ao usar este aplicativo. Você é mais que bem-vindo para contribuir. Basta enviar as alterações por meio de solicitação pull e eu as revisarei antes de mesclar. Certifique-se de seguir as diretrizes da comunidade.
-## :gem: Acknowledgements
+## :gem: Importante
 
 Recursos úteis e dependências usados ​​no Space Portfolio.
 
